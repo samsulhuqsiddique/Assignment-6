@@ -1,0 +1,292 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: #f6f9f9;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.head{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+}
+
+.ban{
+	 width:100%;
+    float:left;
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.banner{
+	width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.banner h2{
+	 font-size: 120px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+
+}
+.banner span{
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+    width: 500px;
+    margin: 30px auto;
+}
+.banner p{
+     color: white;
+    font-size: 20px;
+    font-weight: normal;
+}
+.banner button{
+	background: transparent;
+    margin: 60px 200px;
+    padding: 15px 30px;
+    font-size: 20px;
+    border-color: #15a4fa;
+    color: white;
+    display: grid;
+}
+.fa.fa-chevron-down{
+	 color: white;
+    margin: 80px 0px;
+	}
+.simple{
+      width: 100%;
+      float: left;
+}
+.pure{
+    width: 100%;
+    margin: 80px auto;
+}
+.pure h1{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+.pure p{
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 21px;
+}
+.feature{
+    width: 100%;
+    float: left;
+   font-family: 'Girassol', cursive; 
+   background-color: white;
+}
+.feature-one{
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 40px 0px;
+}
+.fa.fa-mobile{
+   background-color: #48baff;
+    padding: 11px 36px;
+    font-size: 68px;
+    color: white;
+}
+.feature-one h2{
+    margin: 15px 0px;
+    font-size: 25px;
+}
+.feature-one p{
+     font-size: 20px;
+    line-height: 20px;
+}
+
+.feature-two{
+ width: 30%;
+    float: left;
+    margin: 40px 5%;
+    text-align: center;
+}
+.fa.fa-paper-plane{
+    background-color: #48baff;
+    padding: 20px 22px;
+    font-size: 50px;
+    color: white;
+}
+.feature-two h2{
+    margin: 15px 0px;
+    font-size: 25px;
+}
+.feature-two p{
+    font-size: 20px;
+    line-height: 20px;  
+}
+
+.feature-three{
+  width: 30%;
+    float: left;
+    text-align: center;
+    margin: 40px 0px;
+}
+.fa.fa-bullhorn{
+   background-color: #48baff;
+    padding: 20px 22px;
+    font-size: 50px;
+    color: white;
+ }
+.feature-three h2{
+    margin: 15px 0px;
+    font-size: 25px;
+}
+.feature-three p{
+    font-size: 20px;
+    line-height: 20px;
+}
+.showcase{
+       width: 100%;
+       float: left;
+}
+.portfolio {
+    width: 100%;
+    text-align: center;
+    margin: 60px 0px;
+   float: left;
+}
+.portfolio h2{
+    font-size: 40px;
+}
+.portfolio p{
+    font-size: 19px;
+    margin: 10px;
+}
+.portfolio-one{
+ width: 30%;
+    float: left;
+    margin: 2% 0px;
+
+}
+.portfolio-two{
+       width: 30%;
+    float: left;
+    margin: 2% 5%;
+}
+.portfolio-three{
+  width: 30%;
+    float: left;
+    margin: 2% 0px;
+}
+
+.portfolio-four{
+    width: 30%;
+    float: left;
+}
+.portfolio-five{
+    width: 30%;
+    float: left;
+    margin: 0% 5%;
+}
+.portfolio-six{
+    width: 30%;
+    float: left;
+}
+.stay{
+    width: 100%;
+    float: left;
+    background-image: url(../img/stay.png);
+
+}
+.overlap{
+    background-color: #000000de;
+    padding: 50px 0px 120px 0px;
+ }
+
+.support{
+     width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.support h2{
+    font-size: 45px;
+}
+.support p {
+    font-size: 20px;
+    margin: 15px 0px;
+}
+.form-control{
+    width: 100%;
+    height: 40px;
+    margin: 5px 0px;
+    background-color: transparent;
+    border-color: #999999;
+    color: white;
+    font-size: 18px;
+
+}
+.area-control{
+    width: 100%;
+    background: transparent;
+    border-color: #999999;
+    height: 140px;
+    margin: 10px 0px;
+    color: white;
+    font-size: 18px;
+}
+::placeholder {
+color:white;
+font-size: 15px;
+padding-left: 15px;
+}
+.left{
+    float: left;
+    margin: 10px 0px;
+}
+
+.support span{
+    float: left;
+    margin: 6px 0px 90px 10px;
+ }
+ 
+.right{
+    float: right;
+    padding: 5px 52px;
+    font-size: 20px;
+    background-color: transparent;
+    color: white;
+    border-color: #15a4fa;
+}
+
+.footer{
+     width: 100%;
+     float: left;
+}
+.copywrite{
+    width: 50%;
+    float: left;
+    margin: 35px 0px;
+    color: #acacac;
+}
+.icons{
+     width: 50%;
+    float: left;
+    text-align: right;
+}
+.icons ul{
+       list-style: none;
+}
+.icons ul li{
+    display: inline-block;
+    margin: 25px 1px;
+    background-color: #15a4fa;
+    padding: 10px;
+}
+.icons ul li a{
+       color: white;
+       padding: 5px; 
+}
